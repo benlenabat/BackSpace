@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages 123
+#How to use IPS Database
 
-You hello can use the [editor on GitHub](https://github.com/benlenabat/IPS_Docs/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+IPS Database is an app for your phone or desktop that can show you all the information relating to Acotrs, Props, and House Rentals. It has 8 tabs to help you do this
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+##1st Tab: Actor Filter
 
-### Markdown
+Actor filter allows you to filter down actors into categories that you are searching for. The order of the categories is Gender, Ethnicity, Age Range, and Body Type.
+Once you have finished your filter it will show you the list of actors that fall into that category arranging them in first name, last name, and age.
+Click on the tab you are intersted in to get the deticated page for that actor.
+You can choose `All` in any category to select every possibility **in that category**.
+**Note:** if any actor has a rating of 1 it will display `Do Not Use Again` at the top of the actor page
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/benlenabat/IPS_Docs/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
