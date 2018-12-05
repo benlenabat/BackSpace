@@ -39,7 +39,7 @@ IPS Database is an app for your phone or desktop that can show you all the infor
 
 * Prop filter allows you to search for a prop by its physcial location.
 * The filters you have to select are Shelf, Tier, and Container.
-* shelf is which shelf it is on, tier is what level on the shelf it is on *0 for the floor, 1 for the first level, etc*, and container is the description of the container it is in.
+* Shelf is which shelf it is on, tier is what level on the shelf it is on *0 for the floor, 1 for the first level, etc*, and container is the description of the container it is in.
 * **Note:** Most large items will not be inside of a container.
 
 ## 7th Tab: Prop List
@@ -48,7 +48,7 @@ IPS Database is an app for your phone or desktop that can show you all the infor
 * You can use this view to search by **Tags**.
 * Tags can be assigned by any person to any prop and any prop can have as many tags as needed.
 * You can use tags to mark items that might cross categories, or simply as a way of marking items you want to esaily find later.
-* you can edit Tags in the dedicated prop page for each item.
+* You can edit Tags in the dedicated prop page for each item.
 
 ## 8th Tab: About
 
@@ -64,4 +64,4 @@ If you uploaded a new actor to the database it may take a while before their pic
 This is most likely because the information entered is not following the requirements. Make sure that all required fields are filled and are in the correct format.
 
 ### I am having some other type of problem(s)
-Contact Ben by email at benlenabat@gmail.com or by test/call at (204)-898-8776 for adminstrative or technical help.
+Contact Ben by email at benlenabat@gmail.com or by text/call at (204)-898-8776 for adminstrative or technical help.
