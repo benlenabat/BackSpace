@@ -5,7 +5,7 @@ IPS Database is an app for your phone or desktop that can show you all the infor
 ## Adding Actors, Props, and/or House Rentals
 * You can add an Actor by getting them to fill out the google form [here](https://goo.gl/forms/a78bHNJUs4XhTLMj1).
 * You can add a Prop or House Rental by going to a tab in app for that caetgory then pressing the pen and pad icon at the bottom right-hand side of the screen.
-* can edit information for any of the items by opening its page and then selecting the pen and pad icon.
+* You can edit information for any of the items by opening its page and then selecting the pen and pad icon.
 
 ## 1st Tab: Actor Filter
 
