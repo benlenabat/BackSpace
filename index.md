@@ -57,7 +57,7 @@ IPS Database is an app for your phone or desktop that can show you all the infor
 
 # Common Problems
 
-### I can't see a actors' photo that I just uploaded to the database
+### I can't see an actors' photo that I just uploaded to the database
 If you uploaded a new actor to the database it may take a while before their picture shows up, this should happen within 24 hours.
 
 ### I can't edit/submit a new actor/location/prop to the database
