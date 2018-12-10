@@ -2,6 +2,11 @@
 
 IPS Database is an app for your phone or desktop that can show you all the information relating to Actors, Props, and House Rentals. It has 8 tabs to help you do this
 
+## Adding Actors, Props, and/or House Rentals
+* You can add an Actor by getting them to fill out the google form at https://goo.gl/forms/a78bHNJUs4XhTLMj1.
+* You can add a Prop or House Rental by going to a tab in app for that caetgory then pressing the pen and pad icon at the bottom right-hand side of the screen.
+* can edit information for any of the items by opening its page and then selecting the pen and pad icon.
+
 ## 1st Tab: Actor Filter
 
 * Actor filter allows you to filter down actors into categories that you are searching for. The order of the categories is Gender, Ethnicity, Age Range, and Body Type.
