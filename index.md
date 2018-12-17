@@ -20,7 +20,7 @@ IPS Database is an app for your phone or desktop that can show you all the infor
 
 * Actor galley allows you to browse all the acotrs in the database by photo, it is organized by **first name**.
 * Selecting an actor opens up the corresponding actor's page.
-* Not all acotrs have a photo, you will see a blank spot if the acotr has not uploaded a photo.
+* Not all actors have a photo, you will see a blank spot if the actor has not uploaded a photo.
 
 ## 3rd Tab: Actor List
 
