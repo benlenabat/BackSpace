@@ -24,15 +24,15 @@ Other users we intend to use our application are curious scientists who are enth
 
 ## Team Members and Special Skills Learned
 
-* Ben: Understanding how to override methods that I havent written and adding complexity
+* Ben: Planet List and Flight Status maker, understanding how to override methods that I havent written and adding complexity
 
-* Evan: Cross-product integration
+* Evan: Cross-product integration expert, hierarchy in xml files and learning how to use them
 
-* Sam
+* Sam: 
 
-* Max
+* Max: 
 
-* Aaron: Testing expert
+* Aaron: Testing expert, When you feel it is difficult to write a good test for a particular piece of code, it usually means the code is poorly-designed and untestable.
 
 # Demonstration
 
@@ -54,6 +54,12 @@ We have 3 sections, Booking the flight is quite large with flight status and pla
 * What took the most time: Data integration was tough and quite lengthy.
 The interaction between seperate chunks of code (planetlist -> book a flight to that planet) was easier then expected
 
-* Are they any outstanding bugs: Not that we are aware of :worried:
+* Are they any outstanding bugs: Not that we are aware of :8
 
-* 
+* Any features working better then expected: Once planet list was completed we realized the code required for flight status. This allowed us to reuse a bunch of our code
+
+* How did the project change: The project did not change much but the time esimates for certain features and user stories were way off, mostly in that they took much longer then expected. Adding simple fuctionality took quite of bit of time to create and test
+
+* Team project development: Having reliable and available team mates is incredibly valuable. We kept in almost constant contact would continue to do so because it worked quite well
+
+* Conclusion: We have always heard that working on a large project is different then a small one, and it is. But working on that bigger project is much different then learning about it. We also learned how to use a bunch of tools to help us develop but learning how to use those tools in the beginning was tough
