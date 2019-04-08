@@ -30,7 +30,7 @@ Other users we intend to use our application are curious scientists who are enth
 
 * Sam: 
 
-* Max: 
+* Max:  Regular human, learned how to properly separate concerns and do a Technical Review
 
 * Aaron: Testing expert, When you feel it is difficult to write a good test for a particular piece of code, it usually means the code is poorly-designed and untestable.
 
